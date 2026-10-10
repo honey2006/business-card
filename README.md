@@ -2,6 +2,7 @@
 This repositry is a part of a challenge of Scrimba's "Become a Fullstack Developer from Scratch" course, it's freely available on free code camp's youtube channel.
 ## Course contents
 ⭐️ Contents ⭐️
+
     00:00:00 Introduction
     00:01:27 Html and CSS
     01:04:19 Intro to CSS
